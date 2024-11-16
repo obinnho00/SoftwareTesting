@@ -1,8 +1,0 @@
-Indtroduction:
-Selenium:
-python selenium is  apowerful tool that enable web automation and  testing by simulation user action on web browser.
-it allow for interaction with dynamic web page, making it ideal for tasks such  as web scraping, automated testing and repetiive web-based workflows.
-
-Geting started with Selenium:
-
-        
