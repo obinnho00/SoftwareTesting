@@ -1,0 +1,25 @@
+"""
+Mutation Score Calculation:
+
+Test Cases and Results:
+T1: Mutant1 = Killed, Mutant2 = Alive, Mutant3 = Killed, Mutant4 = Killed
+T2: Mutant1 = Alive,  Mutant2 = Alive, Mutant3 = Alive,  Mutant4 = Alive
+T3: Mutant1 = Killed, Mutant2 = Killed, Mutant3 = Killed, Mutant4 = Killed
+T4: Mutant1 = Alive,  Mutant2 = Alive, Mutant3 = Killed, Mutant4 = Alive
+T5: Mutant1 = Killed, Mutant2 = Alive, Mutant3 = Killed, Mutant4 = Alive
+
+Mutation Score Calculation Formula:
+Mutation Score = (Number of Killed Mutants / Total Mutants) * 100
+
+Individual Scores:
+Mutant1: Killed 3 out of 5
+Mutant2: Killed 1 out of 5
+Mutant3: Killed 4 out of 5
+Mutant4: Killed 2 out of 5
+
+Mutation Scores:
+Mutant1 = (3/5) * 100 = 60%
+Mutant2 = (1/5) * 100 = 20%
+Mutant3 = (4/5) * 100 = 80%
+Mutant4 = (2/5) * 100 = 40%
+"""
