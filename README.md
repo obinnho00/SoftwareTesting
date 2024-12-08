@@ -74,7 +74,7 @@ python -m unittest discover
 
 ## Contributing
 
-We welcome contributions! Please follow these steps:
+I welcome contributions! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature:
    ```bash
@@ -90,7 +90,7 @@ We welcome contributions! Please follow these steps:
    ```
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
 
