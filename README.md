@@ -43,34 +43,34 @@ To get started, make sure you have Python installed. You can install the necessa
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ### Setting Up the Repository
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   ```
+   
 2. Navigate to the project directory:
    ```bash
    cd <repository_name>
-   ```
+   
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
+   
 
 ### Running Tests
 Run the test suite using:
 
 ```bash
 pytest
-```
+
 
 or
 
 ```bash
 python -m unittest discover
-```
+
 
 ## Contributing
 
@@ -79,15 +79,15 @@ I welcome contributions! Please follow these steps:
 2. Create a new branch for your feature:
    ```bash
    git checkout -b feature-name
-   ```
+   
 3. Commit your changes:
    ```bash
    git commit -m "Description of changes"
-   ```
+   
 4. Push to your fork:
    ```bash
    git push origin feature-name
-   ```
+   
 5. Create a pull request.
 
 
